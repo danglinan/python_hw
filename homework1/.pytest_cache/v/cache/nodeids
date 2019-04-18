@@ -1,0 +1,20 @@
+[
+  "src/mypkg/test_my_answers.py::test_numbers_and_strings",
+  "src/mypkg/test_my_answers.py::test_lists",
+  "src/mypkg/test_my_answers.py::test_dictionaries",
+  "tests/test_dictionaries.py::test_fruit",
+  "tests/test_dictionaries.py::test_quantity",
+  "tests/test_dictionaries.py::test_programmer",
+  "tests/test_dictionaries.py::test_sort",
+  "tests/test_lists.py::test_split",
+  "tests/test_lists.py::test_slice",
+  "tests/test_lists.py::test_last_row",
+  "tests/test_lists.py::test_diagonal",
+  "tests/test_lists.py::test_ord",
+  "tests/test_numbers_and_strings.py::test_power",
+  "tests/test_numbers_and_strings.py::test_string",
+  "tests/test_numbers_and_strings.py::test_repeat",
+  "tests/test_numbers_and_strings.py::test_len",
+  "tests/test_numbers_and_strings.py::test_concat",
+  "tests/test_numbers_and_strings.py::test_replace"
+]

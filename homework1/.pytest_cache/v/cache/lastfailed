@@ -1,0 +1,6 @@
+{
+  "tests/test_lists.py::test_slice": true,
+  "tests/test_numbers_and_strings.py::test_concat": true,
+  "tests/test_numbers_and_strings.py::test_power": true,
+  "tests/test_numbers_and_strings.py::test_replace": true
+}

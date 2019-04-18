@@ -1,0 +1,5 @@
+{
+  "tests/test_dictionaries.py": true,
+  "tests/test_lists.py": true,
+  "tests/test_numbers_and_strings.py": true
+}
