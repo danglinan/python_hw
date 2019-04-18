@@ -1,0 +1,5 @@
+{
+  "tests/test_alternateiterator.py": true,
+  "tests/test_modifiedIterator.py": true,
+  "tests/test_windowaverage.py": true
+}
